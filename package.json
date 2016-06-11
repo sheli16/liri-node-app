@@ -1,0 +1,24 @@
+{
+  "name": "liri-app-package",
+  "version": "1.0.0",
+  "description": "liri app for language prompts",
+  "main": "liri.js",
+  "scripts": {
+    "test": "LJ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheli16/liri-node-app.git"
+  },
+  "keywords": [
+    "language",
+    "node.js",
+    "app"
+  ],
+  "author": "sheli16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheli16/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/sheli16/liri-node-app#readme"
+}
